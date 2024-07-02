@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @thecarll
-- 👀 I'm interested in new technology, business, automotive (f1 mainly) and fashion. I'm a fan of apple hardware and the OS system.
-- 🌱 I am currently learning swift programming.
-- 💞️I want to cooperate with my first experience as Junior iOS dev.
-- 📫 How to reach me thekaroldec@gmail.com
+	•	👋 Hi, I’m @thecarll
+	•	👀 I’m interested in new technologies, entrepreneurship, automotive (mainly F1), and fashion. I’m a fan of Apple hardware and the macOS system.
+	•	🌱 I am currently learning web development.
+	•	💞️ I am looking for my first experience as a Junior Web Developer.
+	•	📫 How to reach me: thekaroldec@gmail.com
